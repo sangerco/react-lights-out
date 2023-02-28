@@ -1,3 +1,8 @@
+body {
+  background-color: forestgreen;
+  display: flexbox;
+}
+
 .App {
   text-align: center;
 }
